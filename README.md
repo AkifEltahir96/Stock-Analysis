@@ -6,7 +6,7 @@ The purpose of this analysis is to help Steve analyze the trends of certain stoc
 
 ## Results
 
-In 2017, all stocks except for TERP yielded a net-positive return regarding total daily volume. Steve's parents' stock of interest, DQ, did exceptionally well, yielding a return of 199.9% and a total daily volume of 35,796,200 (picture). However, in 2018, the only stocks that yielded a positive return were the ENPH (81.9%) and RUN (84.0%). The DQ stock preformed poorly, yielding a -62.6% return in 2018 (picture).
+In 2017, all stocks except for TERP yielded a net-positive return regarding total daily volume. Steve's parents' stock of interest, DQ, did exceptionally well, yielding a return of 199.9% and a total daily volume of 35,796,200 (C:\Users\Owner\Desktop\Data Analytics Boot Camp\VBA\Stock Analysis\Resources\VBA_Challenge_2017). However, in 2018, the only stocks that yielded a positive return were the ENPH (81.9%) and RUN (84.0%). The DQ stock preformed poorly, yielding a -62.6% return in 2018 (C:\Users\Owner\Desktop\Data Analytics Boot Camp\VBA\Stock Analysis\Resources\VBA_Challenge_2018).
 
 **I completed the results section based on what the correct excel outputs should be for 2017 and 2018 (in Module 2 Challenge on Canvas). I was able to run the code to get the correct output for 2018 but not 2017 and I am unsure why.
 
@@ -19,3 +19,5 @@ The advantages of refactoring code include increasing the speed for completing c
 These pros apply to the refactoring of the original VBA script because the refactored code does run much faster (see earlier screenshots). The cons apply because the code runs the exact same processes as the original without any additional outputs.
 
 **I am aware that I will probably do poorly on this assignment. I had some personal matters to attend to this week and I was unable to complete this assignment to my full capabilities. I am aware that the last 2 assignments are removed from our overall mark so I am expecting this assignment to be one of them.
+
+

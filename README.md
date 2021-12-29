@@ -6,7 +6,17 @@ The purpose of this analysis is to help Steve analyze the trends of certain stoc
 
 ## Results
 
-In 2017, all stocks except for TERP yielded a net-positive return regarding total daily volume. Steve's parents' stock of interest, DQ, did exceptionally well, yielding a return of 199.9% and a total daily volume of 35,796,200 (Resources\VBA_Challenge_2017). However, in 2018, the only stocks that yielded a positive return were the ENPH (81.9%) and RUN (84.0%). The DQ stock preformed poorly, yielding a -62.6% return in 2018 (Resources\VBA_Challenge_2018).
+2017:
+
+![2017](https://github.com/AkifEltahir96/Stock-Analysis/blob/main/Resources/VBA_Challenge_2017.png)
+
+In 2017, all stocks except for TERP yielded a net-positive return regarding total daily volume. Steve's parents' stock of interest, DQ, did exceptionally well, yielding a return of 199.9% and a total daily volume of 35,796,200. 
+
+2018:
+
+![2018](https://github.com/AkifEltahir96/Stock-Analysis/blob/main/Resources/VBA_Challenge_2018.png)
+
+In 2018, the only stocks that yielded a positive return were the ENPH (81.9%) and RUN (84.0%). The DQ stock preformed poorly, yielding a -62.6% return in 2018.
 
 ## Summary
 
